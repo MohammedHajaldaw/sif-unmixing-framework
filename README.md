@@ -56,6 +56,8 @@ The datasets used in this study are not included because access is restricted by
 
 HyPlant and related SIF datasets can be requested from **Forschungszentrum Jülich (FZJ)**. DESIS imagery can be requested from the **German Aerospace Center (DLR)**.
 
+The source code is archived on Zenodo: https://doi.org/10.5281/zenodo.22669298
+
 ## Citation
 
 ### Publication
@@ -64,7 +66,7 @@ HyPlant and related SIF datasets can be requested from **Forschungszentrum Jüli
 
 ### Source Code
 
-> Hajaldaw, M. (2026). *Improving Satellite-Based Vegetation Monitoring: A Novel Machine Learning-Based Framework for Unmixing Sun-Induced Fluorescence*. Zenodo. DOI: To be added once the Zenodo DOI is available.
+> Hajaldaw, M. (2026). *Improving Satellite-Based Vegetation Monitoring: A Novel Machine Learning-Based Framework for Unmixing Sun-Induced Fluorescence* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22669299
 
 ## License
 
